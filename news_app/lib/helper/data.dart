@@ -1,4 +1,5 @@
-import 'package:news_app_api/models/categorie_model.dart';
+import 'package:news_app/models/categorie_model.dart';
+
 
 List<CategorieModel> getCategories(){
 

@@ -1,8 +1,9 @@
 import 'package:http/http.dart' as http;
-import 'package:news_app_api/models/article.dart';
+import 'package:news_app/models/article.dart';
 import 'dart:convert';
 
-import 'package:news_app_api/secret.dart';
+import '../secret.dart';
+
 
 class News {
 

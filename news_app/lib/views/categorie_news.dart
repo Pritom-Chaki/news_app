@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_app_api/helper/news.dart';
-import 'package:news_app_api/helper/widgets.dart';
+import 'package:news_app/helper/news.dart';
+import 'package:news_app/helper/widgets.dart';
 
 class CategoryNews extends StatefulWidget {
 

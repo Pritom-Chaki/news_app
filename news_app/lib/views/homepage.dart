@@ -1,10 +1,11 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app_api/helper/data.dart';
-import 'package:news_app_api/helper/widgets.dart';
-import 'package:news_app_api/models/categorie_model.dart';
-import 'package:news_app_api/views/categorie_news.dart';
+import 'package:news_app/helper/data.dart';
+import 'package:news_app/helper/widgets.dart';
+import 'package:news_app/models/categorie_model.dart';
+
 import '../helper/news.dart';
+import 'categorie_news.dart';
 
 class HomePage extends StatefulWidget {
   @override
